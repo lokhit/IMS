@@ -1,2 +1,2 @@
 # IMS
-University Project
+Academic Project
